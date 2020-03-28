@@ -1,0 +1,444 @@
+[
+  {
+    "objectId": "cvjqr5mbAA",
+    "name": "Contemporânea",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:32.034Z"
+  },
+  {
+    "objectId": "4uFt64F31T",
+    "name": "Pizzaria",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "0ut20uUXUW",
+    "name": "Brasileira",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "DHeMD1erF9",
+    "name": "Carnes",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "rGvjKG5n1L",
+    "name": "Alemã",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:40.268Z"
+  },
+  {
+    "objectId": "PRvlNxwXbf",
+    "name": "Francesa",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "FQ8SIR0f5C",
+    "name": "Gelateria",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "llLPEKbFsG",
+    "name": "Hamburgueria",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "lykMPFhKUk",
+    "name": "Churrascaria",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "dZBzUi2iCu",
+    "name": "Indiana",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "Cjo14ZMEg6",
+    "name": "Internacional",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "B2XnKXbEqn",
+    "name": "Italiana",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "q8EC1XqVFh",
+    "name": "Japonesa",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "RgMGJoBzYr",
+    "name": "Drinkeria",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "rQuTNJnb0z",
+    "name": "Parrilha",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "EzGRdA8iHw",
+    "name": "Boteco",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "M0bNUctt9F",
+    "name": "Oriental",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "51SbLbE2jx",
+    "name": "Cafeteria",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "o5FiebifCK",
+    "name": "Gelateria",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "rSmpwMU0B8",
+    "name": "Sorveteria",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "9BLL50FKKe",
+    "name": "Frutos do Mar",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "1ZeI8TXYiF",
+    "name": "Havaiana",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "qTZWeFD7Ez",
+    "name": "Vinoteca",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "sgR0faWFBr",
+    "name": "Bar",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "lbnGM9kHRS",
+    "name": "Salada",
+    "createdAt": "2020-02-08T06:16:16.092Z",
+    "updatedAt": "2020-02-08T06:16:16.092Z"
+  },
+  {
+    "objectId": "qd66Vo88YN",
+    "name": "Coreana",
+    "createdAt": "2020-02-08T06:16:16.092Z",
+    "updatedAt": "2020-02-08T06:16:16.092Z"
+  },
+  {
+    "objectId": "QtOqx5Jh8p",
+    "name": "Mineira",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "H4iOmei7d0",
+    "name": "Espanhola",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "UFF5YQJz0u",
+    "name": "Exótica",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "MoPAXDBNxo",
+    "name": "Peruana",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "nEkgarejZ9",
+    "name": "Árabe",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:17:05.159Z"
+  },
+  {
+    "objectId": "TTkznpKwLN",
+    "name": "Tailandesa",
+    "createdAt": "2020-02-08T06:16:16.091Z",
+    "updatedAt": "2020-02-08T06:16:16.091Z"
+  },
+  {
+    "objectId": "1jyhEaGYDN",
+    "name": "Rodizio",
+    "createdAt": "2020-02-08T06:16:16.092Z",
+    "updatedAt": "2020-02-08T06:16:16.092Z"
+  },
+  {
+    "objectId": "0QYmjV5lZc",
+    "name": "Buffet",
+    "createdAt": "2020-02-08T06:16:16.092Z",
+    "updatedAt": "2020-02-08T06:16:16.092Z"
+  },
+  {
+    "objectId": "LKjb10BvpF",
+    "name": "Contemporânea",
+    "oldId": 2,
+    "createdAt": "2020-03-10T14:50:07.541Z",
+    "updatedAt": "2020-03-10T14:50:07.541Z"
+  },
+  {
+    "objectId": "KrNo5YgCIo",
+    "name": "Pizzaria",
+    "oldId": 3,
+    "createdAt": "2020-03-10T14:50:08.189Z",
+    "updatedAt": "2020-03-10T14:50:08.189Z"
+  },
+  {
+    "objectId": "D9yImwJS0j",
+    "name": "Alemã",
+    "oldId": 4,
+    "createdAt": "2020-03-10T14:50:08.875Z",
+    "updatedAt": "2020-03-10T14:50:08.875Z"
+  },
+  {
+    "objectId": "jy7L7J8GLb",
+    "name": "Brasileira",
+    "oldId": 5,
+    "createdAt": "2020-03-10T14:50:09.526Z",
+    "updatedAt": "2020-03-10T14:50:09.526Z"
+  },
+  {
+    "objectId": "Dbc8IWzsPU",
+    "name": "Carnes",
+    "oldId": 6,
+    "createdAt": "2020-03-10T14:50:10.168Z",
+    "updatedAt": "2020-03-10T14:50:10.168Z"
+  },
+  {
+    "objectId": "Bv8v5c5ORU",
+    "name": "Churrascaria",
+    "oldId": 7,
+    "createdAt": "2020-03-10T14:50:10.812Z",
+    "updatedAt": "2020-03-10T14:50:10.812Z"
+  },
+  {
+    "objectId": "5RhdYIQKMG",
+    "name": "Francesa",
+    "oldId": 8,
+    "createdAt": "2020-03-10T14:50:11.493Z",
+    "updatedAt": "2020-03-10T14:50:11.493Z"
+  },
+  {
+    "objectId": "v6gTVLKdkw",
+    "name": "Gelateria",
+    "oldId": 9,
+    "createdAt": "2020-03-10T14:50:12.181Z",
+    "updatedAt": "2020-03-10T14:50:12.181Z"
+  },
+  {
+    "objectId": "KRi8I1W1XL",
+    "name": "Hamburgueria",
+    "oldId": 10,
+    "createdAt": "2020-03-10T14:50:12.850Z",
+    "updatedAt": "2020-03-10T14:50:12.850Z"
+  },
+  {
+    "objectId": "nODvNRIk01",
+    "name": "Indiana",
+    "oldId": 11,
+    "createdAt": "2020-03-10T14:50:13.499Z",
+    "updatedAt": "2020-03-10T14:50:13.499Z"
+  },
+  {
+    "objectId": "YAjSsrvvyS",
+    "name": "Internacional",
+    "oldId": 12,
+    "createdAt": "2020-03-10T14:50:14.123Z",
+    "updatedAt": "2020-03-10T14:50:14.123Z"
+  },
+  {
+    "objectId": "ShbJ86t1q4",
+    "name": "Italiana",
+    "oldId": 13,
+    "createdAt": "2020-03-10T14:50:14.780Z",
+    "updatedAt": "2020-03-10T14:50:14.780Z"
+  },
+  {
+    "objectId": "fAE7P0BVPM",
+    "name": "Japonesa",
+    "oldId": 14,
+    "createdAt": "2020-03-10T14:50:15.416Z",
+    "updatedAt": "2020-03-10T14:50:15.416Z"
+  },
+  {
+    "objectId": "0ILSnI8xPN",
+    "name": "Drinkeria",
+    "oldId": 15,
+    "createdAt": "2020-03-10T14:50:16.048Z",
+    "updatedAt": "2020-03-10T14:50:16.048Z"
+  },
+  {
+    "objectId": "tH4cTif49B",
+    "name": "Bar",
+    "oldId": 16,
+    "createdAt": "2020-03-10T14:50:16.693Z",
+    "updatedAt": "2020-03-10T14:50:16.693Z"
+  },
+  {
+    "objectId": "pWMncZZP8b",
+    "name": "Boteco",
+    "oldId": 17,
+    "createdAt": "2020-03-10T14:50:17.336Z",
+    "updatedAt": "2020-03-10T14:50:17.336Z"
+  },
+  {
+    "objectId": "I9Po9qVKdY",
+    "name": "parrilha",
+    "oldId": 18,
+    "createdAt": "2020-03-10T14:50:17.991Z",
+    "updatedAt": "2020-03-10T14:50:17.991Z"
+  },
+  {
+    "objectId": "dteShfYExf",
+    "name": "Cafeteria",
+    "oldId": 19,
+    "createdAt": "2020-03-10T14:50:18.650Z",
+    "updatedAt": "2020-03-10T14:50:18.650Z"
+  },
+  {
+    "objectId": "WoAxJqCL6g",
+    "name": "Oriental",
+    "oldId": 20,
+    "createdAt": "2020-03-10T14:50:19.272Z",
+    "updatedAt": "2020-03-10T14:50:19.272Z"
+  },
+  {
+    "objectId": "ue3MGsSa8p",
+    "name": "Mineira",
+    "oldId": 21,
+    "createdAt": "2020-03-10T14:50:19.898Z",
+    "updatedAt": "2020-03-10T14:50:19.898Z"
+  },
+  {
+    "objectId": "EuO8PpDR8H",
+    "name": "Sorveteria",
+    "oldId": 22,
+    "createdAt": "2020-03-10T14:50:20.540Z",
+    "updatedAt": "2020-03-10T14:50:20.540Z"
+  },
+  {
+    "objectId": "uHWLD6gu9z",
+    "name": "Gelateria",
+    "oldId": 23,
+    "createdAt": "2020-03-10T14:50:21.201Z",
+    "updatedAt": "2020-03-10T14:50:21.201Z"
+  },
+  {
+    "objectId": "I71Np4a8Nn",
+    "name": "Peruana",
+    "oldId": 24,
+    "createdAt": "2020-03-10T14:50:21.828Z",
+    "updatedAt": "2020-03-10T14:50:21.828Z"
+  },
+  {
+    "objectId": "hNHTpKwd5W",
+    "name": "Frutos do Mar",
+    "oldId": 25,
+    "createdAt": "2020-03-10T14:50:22.446Z",
+    "updatedAt": "2020-03-10T14:50:22.446Z"
+  },
+  {
+    "objectId": "Kia3kO3Tx1",
+    "name": "Exótica ",
+    "oldId": 27,
+    "createdAt": "2020-03-10T14:50:23.085Z",
+    "updatedAt": "2020-03-10T14:50:23.085Z"
+  },
+  {
+    "objectId": "WXBH7dnDXS",
+    "name": "Vinoteca ",
+    "oldId": 28,
+    "createdAt": "2020-03-10T14:50:23.721Z",
+    "updatedAt": "2020-03-10T14:50:23.721Z"
+  },
+  {
+    "objectId": "4ydALGHvet",
+    "name": "Havaiana ",
+    "oldId": 29,
+    "createdAt": "2020-03-10T14:50:24.393Z",
+    "updatedAt": "2020-03-10T14:50:24.393Z"
+  },
+  {
+    "objectId": "sp9C6KUpqA",
+    "name": "Tailandesa ",
+    "oldId": 30,
+    "createdAt": "2020-03-10T14:50:25.065Z",
+    "updatedAt": "2020-03-10T14:50:25.065Z"
+  },
+  {
+    "objectId": "4XyOE4RHEV",
+    "name": "Espanhola",
+    "oldId": 31,
+    "createdAt": "2020-03-10T14:50:25.712Z",
+    "updatedAt": "2020-03-10T14:50:25.712Z"
+  },
+  {
+    "objectId": "0BUSmRDtCV",
+    "name": "Árabe ",
+    "oldId": 32,
+    "createdAt": "2020-03-10T14:50:26.365Z",
+    "updatedAt": "2020-03-10T14:50:26.365Z"
+  },
+  {
+    "objectId": "GQa8fj1NJu",
+    "name": "Coreana ",
+    "oldId": 33,
+    "createdAt": "2020-03-10T14:50:26.995Z",
+    "updatedAt": "2020-03-10T14:50:26.995Z"
+  },
+  {
+    "objectId": "vNVhd8FGdM",
+    "name": "Salada ",
+    "oldId": 34,
+    "createdAt": "2020-03-10T14:50:27.628Z",
+    "updatedAt": "2020-03-10T14:50:27.628Z"
+  },
+  {
+    "objectId": "vKJRX69Z9h",
+    "name": "Buffet",
+    "oldId": 35,
+    "createdAt": "2020-03-10T14:50:28.267Z",
+    "updatedAt": "2020-03-10T14:50:28.267Z"
+  },
+  {
+    "objectId": "bI3jphtELZ",
+    "name": "rodizio",
+    "oldId": 36,
+    "createdAt": "2020-03-10T14:50:28.915Z",
+    "updatedAt": "2020-03-10T14:50:28.915Z"
+  }
+]
